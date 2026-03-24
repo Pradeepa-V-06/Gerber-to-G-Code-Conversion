@@ -19,7 +19,6 @@ Copper CAM
 13. Save the G code</br>
 # Output
 
-
 ### Contours Output
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/88cdcb23-5c82-457e-be10-7a19e601d596" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7cb72f2b-ff9d-434c-9c33-516d22ebfa0a" />
